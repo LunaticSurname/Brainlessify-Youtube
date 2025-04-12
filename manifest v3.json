@@ -1,11 +1,11 @@
 {
     "manifest_version": 3,
-    "name": "YouTube MrBeastify",
+    "name": "YouTube Brainlessify",
     "version": "1.7.7",
     "icons": {
         "96": "icon.png"
     },
-    "description": "Modify YouTube thumbnails to include MrBeast",
+    "description": "Modify YouTube thumbnails to include fart.wav",
     "action": {
         "default_popup": "settings.html"
     },
